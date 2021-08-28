@@ -7,7 +7,7 @@ Announcing the multimodal deep learning repository that contains implementation 
   * [BBFN (PyTorch)](#Bi-Bimodal-Modality-Fusion-for-Correlation-Controlled-Multimodal-Sentiment-Analysis)
   * [Multimodal-Infomax (PyTorch)](#Multimodal-Infomax)
   * [Hfusion](#hfusion)
-  * [contextual-attention-based-LSTM](Attention-based-multimodal-fusion-for-sentiment-analysis)
+  * [contextual-attention-based-LSTM](#Attention-based-multimodal-fusion-for-sentiment-analysis)
   * [bc-LSTM](#Context--Dependent-Sentiment-Analysis-in-User-Generated-Videos)
   * [Contextual-Multimodal-Fusion](#Contextual-Inter--modal-Attention-for-Multimodal-Sentiment-Analysis)
 

@@ -7,3 +7,6 @@
 [submodule "M2H2-dataset"]
 	path = M2H2-dataset
 	url = https://github.com/declare-lab/M2H2-dataset
+[submodule "BBFN"]
+	path = BBFN
+	url = https://github.com/declare-lab/BBFN

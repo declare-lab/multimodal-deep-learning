@@ -784,7 +784,7 @@ The M2H2 dataset is compiled from a famous TV show "Shrimaan Shrimati Phir Se" (
 
 # Data Format
 
-![Alt text](dataset_samples.png?raw=true "Sample")
+![Alt text](https://github.com/declare-lab/M2H2-dataset/raw/5a95cecbee15b520e9d45ed49b4dc7744829c67f/dataset_samples.png)
 
 ## Text Data
 

@@ -4,11 +4,11 @@ Announcing the multimodal deep learning repository that contains implementation 
 
 - [Models](#models)
   * [MISA (PyTorch)](#MISA-Modality--Invariant-and--Specific-Representations-for-Multimodal-Sentiment-Analysis)
-  * [BBFN (PyTorch)](#bbfn)
+  * [BBFN (PyTorch)](#Bi-Bimodal-Modality-Fusion-for-Correlation-Controlled-Multimodal-Sentiment-Analysis)
   * [Multimodal-Infomax (PyTorch)](#Multimodal-Infomax)
   
   
-#Models
+# Models
 
 ## MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis
 Code for the [ACM MM 2020](https://2020.acmmm.org) paper [MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2005.03545.pdf)

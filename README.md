@@ -6,6 +6,9 @@ Announcing the multimodal deep learning repository that contains implementation 
   * [MISA (PyTorch)](#MISA-Modality--Invariant-and--Specific-Representations-for-Multimodal-Sentiment-Analysis)
   * [BBFN (PyTorch)](#Bi-Bimodal-Modality-Fusion-for-Correlation-Controlled-Multimodal-Sentiment-Analysis)
   * [Multimodal-Infomax (PyTorch)](#Multimodal-Infomax)
+  * [Hfusion](#hfusion)
+  * [bc-LSTM](#bc-lstm)
+  * [Contextual-Multimodal-Fusion](#contextual-multimodal-fusion)
   
   
 # Models
@@ -112,6 +115,3 @@ Please cite our paper if you find our work useful  for your research:
 
 ### Contact 
 Should you have any question, feel free to contact me through [henryhan88888@gmail.com](henryhan88888@gmail.com)
-
-
-

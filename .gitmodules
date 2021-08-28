@@ -10,3 +10,6 @@
 [submodule "BBFN"]
 	path = BBFN
 	url = https://github.com/declare-lab/BBFN
+[submodule "MISA"]
+	path = MISA
+	url = https://github.com/declare-lab/MISA

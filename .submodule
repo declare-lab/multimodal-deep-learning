@@ -1,0 +1,9 @@
+[submodule "multimodal-humour-dataset"]
+	path = M2H2-dataset
+	url = https://github.com/declare-lab/M2H2-dataset
+[submodule "MELD-dataset"]
+	path = MELD-dataset
+	url = https://github.com/declare-lab/MELD
+[submodule "multimodal-sarcasm-dataset"]
+	path = multimodal-sarcasm-dataset
+	url = https://github.com/soujanyaporia/MUStARD

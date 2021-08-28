@@ -396,7 +396,7 @@ Some of the functionalities in this repo are borrowed from https://github.com/so
 
 ## Leaderboard
 
-![](./images/meld.png)
+![](https://github.com/declare-lab/MELD/blob/352da58b7c6d50dd2955134de0be145aeec37715/images/meld.png)
 
 ## Updates
 
@@ -423,7 +423,7 @@ Ghosal, Deepanway, Navonil Majumder, Soujanya Poria, Niyati Chhaya, and Alexande
 Multimodal EmotionLines Dataset (MELD) has been created by enhancing and extending EmotionLines dataset. MELD contains the same dialogue instances available in EmotionLines, but it also encompasses audio and visual modality along with text. MELD has more than 1400 dialogues and 13000 utterances from Friends TV series. Multiple speakers participated in the dialogues. Each utterance in a dialogue has been labeled by any of these seven emotions -- Anger, Disgust, Sadness, Joy, Neutral, Surprise and Fear. MELD also has sentiment (positive, negative and neutral) annotation for each utterance.
 
 ### Example Dialogue
-![](./images/emotion_shift.jpeg)
+![](https://github.com/declare-lab/MELD/blob/352da58b7c6d50dd2955134de0be145aeec37715/images/emotion_shift.jpeg)
 
 ### Dataset Statistics
 | Statistics                      | Train   | Dev     | Test    |
@@ -667,7 +667,7 @@ accompanied by its context, which provides additional information on the scenari
 
 ## Example Instance
 
-![Example instance](images/utterance_example.jpg)
+![Example instance](https://github.com/soujanyaporia/MUStARD/blob/f45a9e542f9b220c9594264ebb7e87eb8faf0f7d/images/utterance_example.jpg)
 
 <p align="center"> Example sarcastic utterance from the dataset along with its context and transcript. </p>     
 

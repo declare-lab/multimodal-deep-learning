@@ -1,3 +1,6 @@
 [submodule "MELD"]
 	path = MELD
 	url = https://github.com/declare-lab/MELD
+[submodule "MUStARD"]
+	path = MUStARD
+	url = https://github.com/soujanyaporia/MUStARD

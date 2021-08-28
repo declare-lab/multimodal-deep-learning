@@ -12,7 +12,7 @@
   * [Contextual-Multimodal-Fusion (Keras)](#Contextual-Inter--modal-Attention-for-Multimodal-Sentiment-Analysis)
 
 - [Datasets](#datasets)
-  * [MELD](#MELD-A-Multimodal-Multi--Party-Dataset-for-Emotion-Recognition-in-Conversation)
+  * [MELD](##meld-a-multimodal-multi-party-dataset-for-emotion-recognition-in-conversation)
   * [MUStARD](#MUStARD-Multimodal-Sarcasm-Detection-Dataset)
   * [M2H2](#M2H2-A-Multimodal-Multiparty-Hindi-Dataset-For-Humor-Recognition-in-Conversations
 )

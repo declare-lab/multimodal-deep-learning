@@ -79,7 +79,7 @@ with complementary modality with regularization and gated control.
 
 Results on the test set of CMU-MOSI and CMU-MOSEI dataset. Notation: △ indicates results in the corresponding line are excerpted from previous papers; † means the results are reproduced with publicly visible source code and applicable hyperparameter setting; ‡ shows the results have experienced paired t-test with 𝑝 < 0.05 and demonstrate significant improvement over MISA, the state-of-the-art model.
 
-![Alt text](img/results2.png?raw=true "Model")
+![Alt text](BBFN/img/results2.png?raw=true "Model")
 
 ### Usage
 1. Set up conda environemnt

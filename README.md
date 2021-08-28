@@ -145,7 +145,7 @@ Code for the paper
 
 [Multi-level Multiple Attentions for Contextual Multimodal Sentiment Analysis](https://ieeexplore.ieee.org/abstract/document/8215597/)(ICDM 2017).
 
-![Alt text](atlstm3.jpg?raw=true "The attention based fusion mechanism (ICDM 2017)")
+![Alt text](contextual-attention-based-LSTM/atlstm3.jpg?raw=true "The attention based fusion mechanism (ICDM 2017)")
 
 
 ### Preprocessing

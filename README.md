@@ -84,7 +84,7 @@ to generate the final prediction.
 A single complementation layer: two identical pipelines (left and right) propagate the main modality and fuse that
 with complementary modality with regularization and gated control.
 
-![Alt text](https://github.com/declare-lab/BBFN/tree/main/img/singlelayer.png?raw=True)
+![Alt text](https://github.com/declare-lab/BBFN/blob/main/img/singlelayer.png?raw=True)
 
 ### Results
 

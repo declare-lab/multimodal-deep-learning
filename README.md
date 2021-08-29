@@ -79,18 +79,18 @@ This repository contains official implementation of the paper: [Bi-Bimodal Modal
 Overview of our Bi-Bimodal Fusion Network (BBFN). It learns two text-related pairs of representations, text-acoustic and text-visual by enforcing each pair of modalities to complement mutually. Finally, the four (two pairs) head representations are concatenated
 to generate the final prediction.
 
-![Alt text](BBFN/img/model2.png?raw=true "Model")
+![Alt text](BBFN @ be15f94/img/model2.png?raw=true "Model")
 
 A single complementation layer: two identical pipelines (left and right) propagate the main modality and fuse that
 with complementary modality with regularization and gated control.
 
-![Alt text](BBFN/img/singlelayer.png?raw=true "Model")
+![Alt text](BBFN @ be15f94/img/singlelayer.png?raw=true "Model")
 
 ### Results
 
 Results on the test set of CMU-MOSI and CMU-MOSEI dataset. Notation: △ indicates results in the corresponding line are excerpted from previous papers; † means the results are reproduced with publicly visible source code and applicable hyperparameter setting; ‡ shows the results have experienced paired t-test with 𝑝 < 0.05 and demonstrate significant improvement over MISA, the state-of-the-art model.
 
-![Alt text](BBFN/img/results2.png?raw=true "Model")
+![Alt text](BBFN @ be15f94/img/results2.png?raw=true "Model")
 
 ### Usage
 1. Set up conda environemnt

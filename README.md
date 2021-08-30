@@ -3,7 +3,7 @@
 🎆 🎆 🎆 Announcing the multimodal deep learning repository that contains implementation of various deep learning-based models to solve different multimodal problems such as multimodal representation learning, multimodal fusion for downstream tasks e.g., multimodal sentiment analysis.
 
 - [Models](#models)
-  * [Multimodal-Infomax (PyTorch)](#improving-multimodal-fusion-with-hierarchical-mutual-informationmaximization-for-multimodal-sentiment-analysis)
+  * [Multimodal-Infomax (PyTorch)](#improving-multimodal-fusion-with-hierarchical-mutual-information-maximization-for-multimodal-sentiment-analysis)
   * [MISA (PyTorch)](#MISA-Modality--Invariant-and--Specific-Representations-for-Multimodal-Sentiment-Analysis)
   * [BBFN (PyTorch)](#Bi-Bimodal-Modality-Fusion-for-Correlation-Controlled-Multimodal-Sentiment-Analysis)
   * [Hfusion (Keras)](#hfusion)
@@ -19,7 +19,11 @@
 
 # Models
 
-## Improving Multimodal Fusion with Hierarchical Mutual InformationMaximization for Multimodal Sentiment Analysis
+## Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis
+
+Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis (EMNLP 2021)
+
+Codes will be uploaded soon.
 
 ## MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis
 Code for the [ACM MM 2020](https://2020.acmmm.org) paper [MISA: Modality-Invariant and -Specific Representations for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2005.03545.pdf)

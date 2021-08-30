@@ -1,3 +1,5 @@
+# 🔥 🔥 🔥 Notice: This repository will no longer be maintained. Instead, we are are moving all our multimodal works to this new centralized repository: [https://github.com/declare-lab/multimodal-deep-learning](https://github.com/declare-lab/multimodal-deep-learning). 
+
 # Context-Dependent Sentiment Analysis in User-Generated Videos
 Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Videos](http://sentic.net/context-dependent-sentiment-analysis-in-user-generated-videos.pdf) (ACL 2017).
 

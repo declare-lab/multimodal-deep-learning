@@ -10,7 +10,7 @@
   * [contextual-attention-based-LSTM (Tensorflow)](#Attention-based-multimodal-fusion-for-sentiment-analysis)
   * [bc-LSTM (Keras)](#Context--Dependent-Sentiment-Analysis-in-User-Generated-Videos)
   * [Contextual-Multimodal-Fusion (Keras)](#Contextual-Inter--modal-Attention-for-Multimodal-Sentiment-Analysis)
-  * [Tensor Fusion Network (PyTorch)]()
+  * [Tensor Fusion Network (PyTorch)](tensor-fusion-network-tfn)
 
 - [Datasets](#datasets)
   * [MELD](##meld-a-multimodal-multi-party-dataset-for-emotion-recognition-in-conversation)

@@ -1,8 +1,6 @@
 # Context-Dependent Sentiment Analysis in User-Generated Videos
 Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Videos](http://sentic.net/context-dependent-sentiment-analysis-in-user-generated-videos.pdf) (ACL 2017).
 
-## NOTE: Here is the updated version of the code - https://github.com/soujanyaporia/multimodal-sentiment-analysis
-
 ### Requirements
 Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 

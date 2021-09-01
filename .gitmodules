@@ -22,3 +22,6 @@
 [submodule "Low-rank-Multimodal-Fusion"]
 	path = Low-rank-Multimodal-Fusion
 	url = https://github.com/Justin1904/Low-rank-Multimodal-Fusion
+[submodule "Multimodal-Infomax"]
+	path = Multimodal-Infomax
+	url = https://github.com/declare-lab/Multimodal-Infomax

@@ -19,3 +19,6 @@
 [submodule "TensorFusionNetworks"]
 	path = TensorFusionNetworks
 	url = https://github.com/Justin1904/TensorFusionNetworks
+[submodule "Low-rank-Multimodal-Fusion"]
+	path = Low-rank-Multimodal-Fusion
+	url = https://github.com/Justin1904/Low-rank-Multimodal-Fusion

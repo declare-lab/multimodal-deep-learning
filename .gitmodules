@@ -16,3 +16,6 @@
 [submodule "contextual-utterance-level-multimodal-sentiment-analysis"]
 	path = bc-LSTM
 	url = https://github.com/declare-lab/contextual-utterance-level-multimodal-sentiment-analysis
+[submodule "TensorFusionNetworks"]
+	path = TensorFusionNetworks
+	url = https://github.com/Justin1904/TensorFusionNetworks

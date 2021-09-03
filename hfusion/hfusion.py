@@ -472,7 +472,7 @@ def Trimodal():
 if __name__ == '__main__':
 
 
-  #Bimodal()
+  Bimodal()
 
   Trimodal()
 

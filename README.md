@@ -23,9 +23,7 @@
 
 ## Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis
 
-Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis (EMNLP 2021)
-
-This repository contains the official implementation code of the paper [Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2109.00412.pdf), accepted to ``EMNLP 2021``.
+This repository contains the official implementation code of the paper [Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis](https://arxiv.org/pdf/2109.00412.pdf), accepted to **EMNLP 2021**.
 
 :fire:  If you would be interested in other multimodal works in our DeCLaRe Lab, welcome to visit the [clustered repository](https://github.com/declare-lab/multimodal-deep-learning)
 

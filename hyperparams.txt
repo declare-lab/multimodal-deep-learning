@@ -1,0 +1,47 @@
+	audio hidden	video hidden	text hidden	audio dropout	video dropout	text dropout	factor lr	learning rate	rank	batch size	weight decay
+
+For POM:
+
+Confidence	16	16	64	0.3	0.5	0.2	0.0005	0.001	4	16	0
+
+Passion		16	16	64	0.3	0.5	0.2	0.0005	0.001	4	16	0  
+
+Pleasant	16	16	256	0.1	0.15	0.5	0.0003	0.003	1	128	0
+
+Dominance	8	8	64	0.1	0.2	0.2	0.003	0.0003	4	8	0
+
+Credible	(same model setting as confidence)
+
+Vivid		16	8	64	0.15	0.15	0.15	0.003	0.0005	16	32	0.01
+
+Expertise	8	16	64	0.2	0.15	0.3	0.003	0.0003	16	16	0.001
+
+Entertaining	8	8	64	0.2	0.2	0.15	0.0005	0.001	8	8	0
+
+Reserve		8	16	64	0.5	0.1	0.15	0.003	0.0003	16	8	0.001
+
+Trusting	16	8	128	0.1	0.5	0.15	0.0003	0.001	16	16	0
+
+Relaxed		8	8	64	0.5	0.1	0.2	0.0005	0.0003	8	16	0
+
+Outgoing	16	16	256	0.1	0.15	0.2	0.003	0.0005	4	16	0.01
+
+Thorough	(same model setting as confidence)
+
+Nervous		4	8	256	0	0.5	0.1	0.003	0.003	8	64	0
+
+Sentiment	16	16	64	0.5	0.5	0.2	0.003	0.001	4	8	0.002
+
+Persuasive	(same model setting as confidence)
+
+Humorous	8	8	64	0.5	0.2	0.15	0.003	0.001	4	4	0.001
+
+For IEMOCAP:
+
+Angry		8	4	64	0.3	0.1	0.15	0.003	0.0005	8	64	0.001
+
+Sad		8	4	128	0	0	0	0.0005	0.003	4	64	0.002
+
+Happy		4	16	128	0.3	0.1	0.5	0.003	0.001	1	128	0.002
+
+Neutral		32	8	64	0.2	0.5	0.2	0.003	0.0005	16	16	0.002

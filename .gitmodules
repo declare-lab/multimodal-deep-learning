@@ -1,24 +1,3 @@
-[submodule "MELD"]
-	path = MELD
-	url = https://github.com/declare-lab/MELD
-[submodule "MUStARD"]
-	path = MUStARD
-	url = https://github.com/soujanyaporia/MUStARD
-[submodule "BBFN"]
-	path = BBFN
-	url = https://github.com/declare-lab/BBFN
-[submodule "MISA"]
-	path = MISA
-	url = https://github.com/declare-lab/MISA
-[submodule "contextual-utterance-level-multimodal-sentiment-analysis"]
-	path = bc-LSTM
-	url = https://github.com/declare-lab/contextual-utterance-level-multimodal-sentiment-analysis
-[submodule "TensorFusionNetworks"]
-	path = TensorFusionNetworks
-	url = https://github.com/Justin1904/TensorFusionNetworks
-[submodule "Low-rank-Multimodal-Fusion"]
-	path = Low-rank-Multimodal-Fusion
-	url = https://github.com/Justin1904/Low-rank-Multimodal-Fusion
-[submodule "Multimodal-Infomax"]
-	path = Multimodal-Infomax
-	url = https://github.com/declare-lab/Multimodal-Infomax
+[submodule "M2H2-dataset"]
+	path = M2H2-dataset
+	url = https://github.com/declare-lab/M2H2-dataset

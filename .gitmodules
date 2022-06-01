@@ -1,3 +1,6 @@
 [submodule "M2H2-dataset"]
 	path = M2H2-dataset
 	url = https://github.com/declare-lab/M2H2-dataset
+[submodule "MSA-Robustness"]
+	path = MSA-Robustness
+	url = https://github.com/declare-lab/MSA-Robustness

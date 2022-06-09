@@ -2,6 +2,8 @@
 
 🎆 🎆 🎆 Announcing the multimodal deep learning repository that contains implementation of various deep learning-based models to solve different multimodal problems such as multimodal representation learning, multimodal fusion for downstream tasks e.g., multimodal sentiment analysis.
 
+```For those enquiring about how to extract visual and audio features, please check this out: https://github.com/soujanyaporia/MUStARD```
+
 - [Models](#models)
   * [Multimodal-Infomax (PyTorch)](#improving-multimodal-fusion-with-hierarchical-mutual-information-maximization-for-multimodal-sentiment-analysis)
   * [MISA (PyTorch)](#MISA-Modality--Invariant-and--Specific-Representations-for-Multimodal-Sentiment-Analysis)
